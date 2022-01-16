@@ -3,4 +3,5 @@ body{
      background: linear-gradient(180deg, #ddd, #fff);
 }
 
+main{ padding: 10px 0;}
 footer{ background: #222; color: #fff; padding: 10px;}
